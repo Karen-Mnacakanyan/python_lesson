@@ -26,3 +26,5 @@ frozen set
 tuple
 dict
 """
+
+#1. haytararel 3 tarber popoxakanner, tal int, float u str arjeqner u tpel
