@@ -28,3 +28,5 @@ dict
 """
 
 #1. haytararel 3 tarber popoxakanner, tal int, float u str arjeqner u tpel
+
+#2. haytararel a ev b  popoxakanner , tal int u float arjeqner, u tpel hetevyal toxy ` "a +  b havasar e (popoxakanneri gumary)"  
